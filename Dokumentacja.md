@@ -1,5 +1,4 @@
 <h1 align="center">Inżynieria oprogramowania - aplikacja Easup</h1>
-<h3 align="center">Patryk Lesiak, Szymon Frączek, Maciej Pieniążek<h3>
 <br><br>
 
 # Instrukcja instalacji
